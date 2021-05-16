@@ -3,6 +3,7 @@
 	<name>ZcapApp</name>
 	<comment></comment>
 	<projects>
+		<project>ZcapModel</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
